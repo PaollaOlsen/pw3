@@ -1,16 +1,15 @@
 {
-    "livros": [
-                {
-                    "id": 0,
-                    "titulo": "Livro 1",
-                    "autor": "Autor 1",
-                    "descricao": "Descrição 1"                    
-                },
-                {
-                    "id": 1,
-                    "titulo": "Livro 2",
-                    "autor": "Autor 2",
-                    "descricao": "Descrição 2" 
-                }
-    ]
+	"livros": [{
+			"id": 0,
+			"titulo": "Livro 1",
+			"autor": "Autor 1",
+			"descricao": "Descrição 1"
+		},
+		{
+			"id": 1,
+			"titulo": "Livro 2",
+			"autor": "Autor 2",
+			"descricao": "Descrição 2"
+		}
+	]
 }
